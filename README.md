@@ -36,20 +36,16 @@ The aim of this project is to provide an interactive and fun implementation of t
     pip install -r requirements.txt
     ```
 
-3. Download the pre-trained model for gesture recognition and place it in the appropriate directory.
-
-4. Run the game:
+3. Run the game:
 
     ```bash
-    python play_game.py
+    python camera_rps.py
     ```
 
 ## Usage Instructions
 
-- Start the game by running the `play_game.py` script.
+- Start the game by running the 'camera_rps.py' script.
 - Follow the on-screen instructions to make your gesture using the camera.
 - The computer will also make a gesture, and the winner will be determined based on the game rules.
 - Enjoy playing Rock-Paper-Scissors in an interactive way!
-
-## File Structure
 
